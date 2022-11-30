@@ -1,2 +1,2 @@
-# hw3_sample
-숙제 3의 start code
+# hw2_sample
+숙제 2의 start code
